@@ -1,8 +1,14 @@
 # Verbal comms
 
 
+Distributed Systems will be presented both as a research report and verbally.
+
+A.Prof Erik Billing provides some tips of how to present it both in writing and verbally as a presentation.
+
+---
+
 ## Single channel Hypothesis
-    one thing at a time!
+    One thing at a time!
 
     * people focus on only one thing at a time.
     * Speaker leads audience attention.
@@ -37,18 +43,18 @@
     * Come prepared
     * Remember that you feel more nervous that you sound good
     * Use your supporting tools.
-        - ppt-slides etc.
+        - PowerPoint-slides etc.
     * Leave your hands empty.
 
 ## Slide design
     Slides are for the audience audience 
-    NOT FOR YOUR
+    NOT FOR YOU!
 
     * 6*6 rule (rows*col)
     * 5-8 slides/15mins
 
 ## How to start
-    * do not speak until you have the audiences attention
+    * Do NOT speak until you have the audiences attention
     * Starting steps:
         1. Talk some nonsense.
         2. Raise attention.
@@ -67,4 +73,43 @@
         - It creates variations.
     * Things to do - things to say!
 
-## 
+## Your voice
+
+    * Speak loud and clear.
+    * Believe in what you are going to say.
+
+     Some things to avoid.
+    * High pitch, too loud.
+    * End sentences with reduced volume.
+    * Monotone speech.
+
+## How to move your
+    * Move, but not too much:
+      * Standing completely still is just as bad as running
+
+    * Avoid bad habits:
+      * E.g. swinging.
+  
+    * Stand on your own:
+      * Do not lean on something.
+
+
+## How to end 
+
+    * Finish when...
+      * Time is up, or
+      * You do not have anything more to say
+
+    * Wrap up before you finish:
+      * Summary is good but not always necessary.
+      * Wriapping up will increase attention.
+
+## Show respect
+
+    * Do not be afraid of sounding dumb:
+      * It's the speakers responsibility to present things in a way you understand
+
+    * Ask a question:
+      * Avoid simply commenting.
+  
+    * Come with a constructive attitude.
